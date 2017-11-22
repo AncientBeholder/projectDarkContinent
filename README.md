@@ -2,7 +2,7 @@
 Giant mess of a code for a self-made tactical-RPG
 
 For those who found this and wants to test it:
-- this unfinished...let's call it demo, can be launched from src\net\clockworkgiant\gamebase\Luncher.java
+- this unfinished...let's call it demo, can be launched from src\net\clockworkgiant\gamebase\Launcher.java
 
 Few additional notes, as of right now:
 - folder res\Worlds contains file TestWorld.txt:
